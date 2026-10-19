@@ -17,7 +17,6 @@ I am a 16-year-old AI & Python Developer. I love building real-world AI applicat
 ### 📌 Featured Projects:
 - 🎓 **[AI Study Assistant](https://github.com/dyaplo/study_assistant)**: A RAG-based app that lets users upload PDFs and ask questions using Llama 3. 
   - *[Live Demo](https://ali-study-assistant.streamlit.app/)*
-- 🤟 **[Sign Language Translator](https://github.com/dyaplo)**: A CNN model achieving 97.74% accuracy to translate ASL gestures in real-time.
-
+- 🤟 **[Sign Language Translator](https://github.com/dyaplo/sign_language_translator)**: A CNN model achieving 97.74% accuracy to translate ASL gestures in real-time.
 ### 📫 How to reach me:
 [![alilio1358749@gmail.coml](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alilio1358749@gmail.com)
