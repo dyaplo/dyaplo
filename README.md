@@ -20,4 +20,4 @@ I am a 16-year-old AI & Python Developer. I love building real-world AI applicat
 - 🤟 **[Sign Language Translator](https://github.com/dyaplo)**: A CNN model achieving 97.74% accuracy to translate ASL gestures in real-time.
 
 ### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alilio1358749@gmail.com)
+[![Emai : alilio1358749@gmail.coml](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alilio1358749@gmail.com)
